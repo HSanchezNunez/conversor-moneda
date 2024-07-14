@@ -1,7 +1,7 @@
 <h1 align="center"> Conversor de Monedas </h1>
 
-![Logo del Proyecto](![images](https://github.com/user-attachments/assets/949c53aa-de2e-4e31-b20f-b8c2cb4a4ca3)
-)
+![Logo del Proyecto]![Badge-Conversor](https://github.com/user-attachments/assets/8e414466-7bee-43ff-b812-8b84d3e4961b)
+
 
 ## Índice
 - [Descripción del Proyecto](#descripción-del-proyecto)
